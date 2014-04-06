@@ -5,7 +5,7 @@ Searches for [Mersenne Primes](https://en.wikipedia.org/wiki/Mersenne_prime), by
 ## primesearch.c
 Checks every number from 2 if it's a prime using a simple brute force check.
 
-## primecheck.h / primecheck.h
+## primecheck.h / primecheck.c
 implements
 * brute force prime check
 * Lucas-Lehmer Test
